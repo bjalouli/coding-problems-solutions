@@ -1,0 +1,10 @@
+Cargo.lock
+*.rs.bk
+.vscode/ 
+.idea/
+*.rs.bk
+*.swp
+rustfmt.toml
+clippy.toml
+target
+
