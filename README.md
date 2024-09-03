@@ -20,3 +20,8 @@
   - [Description](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - [Rust Solution](Longest_Substring_Without_Repeating_Characters/rust_Solution/src/main.rs)
   - [C Solution](Longest_Substring_Without_Repeating_Characters/C_solution/main.c)
+
+- **Longest_Palindromic_Substring/**
+  - [Description](https://leetcode.com/problems/longest-palindromic-substring/)
+  - [Rust Solution]()
+  - [C Solution](Longest_Palindromic_Substring/C_solution/main.c)
